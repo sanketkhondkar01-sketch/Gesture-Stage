@@ -4,6 +4,8 @@
 
 Show your hand to the camera, make a gesture, and watch the animation respond instantly!
 
+🔗 **GitHub Repository:** [Gesture Stage](https://github.com/sanketkhondkar01-sketch/Gesture-Stage/tree/main)
+
 ## ✨ Features
 
 - 📷 Uses the webcam for real-time hand-gesture detection
@@ -20,8 +22,8 @@ Show your hand to the camera, make a gesture, and watch the animation respond in
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/your-username/gesture-stage.git](https://github.com/your-username/gesture-stage.git)
-cd gesture-stage
+git clone [https://github.com/sanketkhondkar01-sketch/Gesture-Stage.git](https://github.com/sanketkhondkar01-sketch/Gesture-Stage.git)
+cd Gesture-Stage
 ```
 
 ### 2. Open the project
@@ -74,7 +76,7 @@ Click **Start camera** and allow browser permission to access your webcam.
 ## 📁 Project Structure
 
 ```text
-gesture-stage/
+Gesture-Stage/
 ├── gesture-stage.html
 └── README.md
 ```
@@ -113,6 +115,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Made with ❤️ by **Your Name**
+Made with ❤️ by **Sanket Khondkar**
 
-- GitHub: [your-username](https://github.com/your-username)
+- GitHub: [sanketkhondkar01-sketch](https://github.com/sanketkhondkar01-sketch)
+- Project: [Gesture Stage](https://github.com/sanketkhondkar01-sketch/Gesture-Stage/tree/main)
